@@ -1,6 +1,0 @@
-#groceries 
- 
-buy 
-* lime 
-* avocado 
-
