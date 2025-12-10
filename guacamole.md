@@ -3,6 +3,8 @@
 ##Ingredients
 * avocado 
 * lemon
-* salt 
-##Instructions 
+* salt
+* yogurt
 
+##Instructions 
+Mush up the avacado 
